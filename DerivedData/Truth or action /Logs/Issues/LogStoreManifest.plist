@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>5411C694-A5ED-4EF9-9A08-DA1523BE40F5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>5411C694-A5ED-4EF9-9A08-DA1523BE40F5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>Truth_or_action_-eqxnaquleotseyeoqixudismnrjq</string>
+			<key>timeStartedRecording</key>
+			<real>597428900.41863096</real>
+			<key>timeStoppedRecording</key>
+			<real>597428900.50612199</real>
+			<key>title</key>
+			<string>Build target Truth or action </string>
+			<key>uniqueIdentifier</key>
+			<string>5411C694-A5ED-4EF9-9A08-DA1523BE40F5</string>
+		</dict>
+		<key>BB144D03-5998-4830-B12C-9791122764B1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>BB144D03-5998-4830-B12C-9791122764B1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Truth_or_action_-eeanzfwhutwjlieevlmrcsllwavs</string>
+			<key>timeStartedRecording</key>
+			<real>597428968.76450503</real>
+			<key>timeStoppedRecording</key>
+			<real>597428974.31103504</real>
+			<key>title</key>
+			<string>Build target Truth or action </string>
+			<key>uniqueIdentifier</key>
+			<string>BB144D03-5998-4830-B12C-9791122764B1</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

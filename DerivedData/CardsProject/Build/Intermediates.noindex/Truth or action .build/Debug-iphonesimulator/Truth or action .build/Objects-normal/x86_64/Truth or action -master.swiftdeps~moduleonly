@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+options: "e4e39c4f6a46803df05fddb6361c00cb"
+build_time: [1575419314, 684043000]
+inputs:
+  "/Users/nazarkovalik/Downloads/CardsProject/Truth or action /AppDelegate.swift": [1555250172, 0]
+  "/Users/nazarkovalik/Downloads/CardsProject/Truth or action /MainVC.swift": [1575415312, 766163408]
+  "/Users/nazarkovalik/Downloads/CardsProject/Truth or action /RulesVC.swift": [1575414913, 361407469]
+  "/Users/nazarkovalik/Downloads/CardsProject/Truth or action /Ask.swift": [1575406490, 671039123]

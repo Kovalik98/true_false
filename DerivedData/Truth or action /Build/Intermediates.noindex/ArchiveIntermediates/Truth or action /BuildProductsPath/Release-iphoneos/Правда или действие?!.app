@@ -1,0 +1,1 @@
+/Users/nazarkovalik/Downloads/CardsProject/DerivedData/Truth or action /Build/Intermediates.noindex/ArchiveIntermediates/Truth or action /InstallationBuildProductsLocation/Applications/Правда или действие?!.app
